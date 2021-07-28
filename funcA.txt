@@ -3,5 +3,9 @@ C
 AAAA
 next
 asdf
+<<<<<<< HEAD
 
 C3
+=======
+asdf
+>>>>>>> origin/master
